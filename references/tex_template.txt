@@ -1,0 +1,67 @@
+{\Large \bf CHn 單元名稱：副標題}
+
+{\bf 實驗名稱：}xxx
+
+{\bf 實驗日期：}
+
+{\bf 實驗目的：}能了解xxx原理，並實作xxx功能。
+
+{\bf 準備材料： }
+\begin{itemize}
+ \item ESP32 *1
+ \item 感測器模組 *1
+ \item 公對公杜邦線若干
+ \item 400孔或800孔麵包板*1
+\end{itemize}
+
+{\bf 實驗人員：}
+
+{\bf 班級座號：}
+\vspace{10mm}
+
+\includegraphics[width=1\textwidth, angle=0]{115contant/01esp32pic/01esp32_1.png}\footnote{尤濬哲(2021)《IoT物聯網應用》。新北：台科大圖書。}
+
+{\bf 【SOIL導讀：這堂課要帶走什麼】}
+
+總概念：xxx=一句話。\\
+三個子概念：(1)xxx (2)xxx (3)xxx。\\
+三個常見誤解：(1)xxx→正解xxx (2)xxx→正解xxx (3)xxx→正解xxx。\\
+帶走一句話：xxx。
+
+{\bf 一、單元-1 xxx(S-O)}
+
+情境故事 + 原理 + 公式 $距離=[時間/29.4]/2$ + 規格表
+
+\begin{tabular}{c|c|c}
+模組 & 功能 & ESP32接口 \\ \hline
+VCC & 供電 & 5V\\ \hline
+GND & 接地 & GND\\ \hline
+\end{tabular}
+
+\includegraphics[width=0.8\textwidth, angle=0]{115contant/04ultrosoundpic/04ultrosound_2.png}
+
+\newpage
+{\bf 二、實作xxx(O-I)}
+
+接線說明 + 新語法 + 程式流程 + 序列監控驗證
+
+ESP32 $\xleftrightarrow[Read、Input]{Write、Output}$ 感測器
+
+\includegraphics[width=0.8\textwidth, angle=0]{115contant/04ultrosoundpic/04ultrosound_3.png}
+
+\newpage
+{\bf 三、進階應用(I-L)}
+
+整合 + 分級條件 + 替代方案
+
+\includegraphics[width=0.8\textwidth, angle=0]{115contant/04ultrosoundpic/04ultrosound_9.png}
+
+\newpage
+{\bf 四、延伸練習與SOIL檢核(L)}
+
+1. 練習題一
+2. 練習題二
+
+{\bf 高中資訊科技學習檢核：}\\
+(1)xxx\\
+(2)xxx\\
